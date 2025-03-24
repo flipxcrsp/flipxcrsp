@@ -27,9 +27,9 @@ Bash, Python, PowerShell, Markdown
 
 ## 🛡️ Certifications
 
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blueviolet?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/f60b28b8-fd82-4d06-87fa-9e1e9bcb9f0a)  
-[![Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/your-network-badge-id)  
-[![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/your-a-plus-badge-id)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blueviolet?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/fa087431-3a47-402d-a99a-0fed1f6e5611)  
+[![Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/83522a0a-31a1-4177-968a-bfa2b4d76b1d)  
+[![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/a3f85b3c-5bc3-4f61-a9ae-0eeaf884f69f)
 
 
 **Tools & Utilities**:  
