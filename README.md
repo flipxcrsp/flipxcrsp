@@ -15,13 +15,23 @@ Aspiring cybersecurity analyst | Building hands-on home lab | Documenting real-w
 ## 🧰 Lab Tools & Technologies
 
 **Platforms**:  
-Linux (Pop!\_OS, Kali, Ubuntu Server, Debian), Windows 10/11, Windows Server 2019, MacOS, VirtualBox, Android, iPadOS
+Linux (Pop!_OS, Kali Linux, Ubuntu Server, Debian), Windows (10/11, Server 2019), macOS, Virtualization (VirtualBox, VMware), Mobile (Android, iPadOS)
+
 
 **Security Tools**:  
-Splunk, Metasploit, Hydra, Wireshark, Nmap, Zeek, Suricata, Fail2ban, SSH, tcpdump, UFW
+SIEM & Monitoring: Splunk, Graylog, Wazuh  
+Penetration Testing: Metasploit, Hydra, Burp Suite, Nmap, Recon-ng  
+Network Security: Wireshark, Nmap, Zeek, Suricata, tcpdump, UFW  
+Vulnerability Scanning: OpenVAS, Lynis, YARA, Fail2ban  
+Incident Detection & Response: Zeek, Suricata, IDS/IPS, Defender  
+OSINT: Shodan, TheHarvester  
+MITRE ATT&CK Framework: ATT&CK Navigator
+SSH & Access Control: SSH, UFW
+
 
 **Languages & Scripting**:  
-Bash, Python, PowerShell, Markdown
+Bash, Zsh, Python, PowerShell, YAML, JSON, Markdown, Ansible, Docker
+
 
 ---
 
