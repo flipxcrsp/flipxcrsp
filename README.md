@@ -15,7 +15,7 @@ Aspiring cybersecurity analyst | Building hands-on home lab | Documenting real-w
 ## 🧰 Lab Tools & Technologies
 
 **Platforms**:  
-Linux (Pop!_OS, Kali Linux, Ubuntu Server, Debian), Windows (10/11, Server 2019), macOS, Virtualization (VirtualBox, VMware), Mobile (Android, iPadOS)
+Linux (Pop!_OS, Kali Linux, Ubuntu Server, Debian), Windows (10/11, Server 2019), macOS, VirtualBox, VMware, Android, iPadOS
 
 
 **Security Tools**:  
