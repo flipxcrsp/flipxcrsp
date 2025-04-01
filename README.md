@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Phil Crespo (aka flipxcrsp)
+# 👋 Hello there, I'm Phillip Crespo (aka flipxcrsp)
 
 I'm pursuing a cybersecurity career focused on **security operations** and **threat detection**. This profile highlights my hands-on learning journey as I build a strong foundation in SOC analysis, detection engineering, and incident response.
 
@@ -29,19 +29,16 @@ A self-built cybersecurity lab environment for monitoring, detection, and incide
 Pop!_OS, Kali Linux, Ubuntu Server, Windows 10/11, Windows Server 2019, macOS, VirtualBox, VMware
 
 **Blue Team & Monitoring:**  
-Splunk, Zeek, Suricata, Wazuh, Graylog, tcpdump, Wireshark, OpenVAS, Lynis, Fail2ban, TheHive, Security Onion
+Splunk, Zeek, Suricata, Wazuh, Graylog, tcpdump, Wireshark, OpenVAS, Lynis, Fail2ban, TheHive, ELK Stack
 
-**Offensive Tools:**  
-Metasploit, Hydra, Nmap, Burp Suite
-
-**OSINT & Reconnaissance:**  
-Recon-ng, Shodan, TheHarvester
+**Offensive Tools & Recon:**  
+Metasploit, Hydra, Nmap, Burp Suite, Gobuster, SQLMap, CyberChef, Recon-ng, Shodan, TheHarvester
 
 **Scripting & Automation:**  
 Bash, PowerShell, Python, YAML, JSON, Ansible, Docker
 
 **Frameworks & Concepts:**  
-MITRE ATT&CK, log analysis, IDS/IPS, ticketing workflows, SIEM, SSH, firewalls, UFW, syslog, DNS/DHCP, VLANs, NAT
+MITRE ATT&CK, log analysis, IDS/IPS, SSH, firewalls, UFW, syslog, DNS/DHCP, VLANs, NAT
 
 ---
 
