@@ -1,25 +1,36 @@
 # 👋 Hello there, I'm Phillip Crespo (aka flipxcrsp)
 
-I'm pursuing a cybersecurity career focused on **security operations** and **threat detection**. This profile highlights my hands-on learning journey as I build a strong foundation in SOC analysis, detection engineering, and incident response.
+I'm pursuing a cybersecurity career focused on **security operations** and **threat detection**. This profile highlights my hands-on learning journey as I build a strong foundation in SOC analysis, detection workflows, and incident response using industry tools and real lab environments.
 
 ---
 
 ## 🔬 Featured Projects
 
 🛡️ [SOC-Path](https://github.com/flipxcrsp/SOC-Path)  
-My structured cybersecurity learning journal — documenting labs from HTB Academy, TryHackMe, Cybrary, and real-world tool usage.
+My structured cybersecurity learning journal — documenting labs from HTB Academy, TryHackMe, Cybrary, and real-world SOC tooling.
 
 🧪 [home-lab](https://github.com/flipxcrsp/home-lab)  
-A self-built cybersecurity lab environment for monitoring, detection, and incident response using tools like Splunk, Zeek, and Suricata.
+A self-built cybersecurity lab for monitoring, detection, and response using platforms like Splunk, Zeek, Wazuh, and Security Onion.
 
 ---
 
 ## 📚 Learning Paths In Progress
 
-- [x] HTB Academy: SOC Analyst Prerequisites
-- [x] TryHackMe: Cyber Security 101 Path
-- [ ] TryHackMe: SOC Level 1 Path
-- [x] Cybrary: SOC Analyst Career Path
+- [x] HTB Academy: SOC Analyst Prerequisites  
+- [x] TryHackMe: Cyber Security 101 Path  
+- [ ] TryHackMe: SOC Level 1 Path  
+- [x] Cybrary: SOC Analyst Career Path  
+
+---
+
+## 📜 Cybrary Milestones
+
+- ✅ Log Analysis Basics  
+- ✅ Windows Event Logs  
+- ✅ SIEM Basics + Search Expressions  
+- ✅ Security Ticketing with TheHive
+
+🔗 [See Full Lab Portfolio →](https://github.com/flipxcrsp/SOC-Path/tree/main/Cybrary)
 
 ---
 
@@ -53,7 +64,9 @@ MITRE ATT&CK, log analysis, IDS/IPS, SSH, firewalls, UFW, syslog, DNS/DHCP, VLAN
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Phillip5280-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/phillip5280)  
-[![Credly](https://img.shields.io/badge/Credentials-Credly-orange?logo=credly&style=for-the-badge)](https://www.credly.com/users/phillip5280)
+[![Credly](https://img.shields.io/badge/Credentials-Credly-orange?logo=credly&style=for-the-badge)](https://www.credly.com/users/phillip5280)  
+[![Cybrary](https://img.shields.io/badge/Cybrary-Profile-00467f?logo=cybrary&style=for-the-badge)](https://app.cybrary.it/profile/flipxcrsp)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/flipxcrsp)
 
 ---
 
