@@ -16,10 +16,14 @@ A self-built cybersecurity lab for monitoring, detection, and response using pla
 
 ## 📚 Learning Paths In Progress
 
+- [x] TCM Security: Practical SOC Analyst Associate (PSAA) 
 - [x] HTB Academy: SOC Analyst Prerequisites  
 - [x] TryHackMe: Cyber Security 101 Path  
 - [ ] TryHackMe: SOC Level 1 Path  
 - [x] Cybrary: SOC Analyst Career Path  
+
+- TCM Security: PSAA is beginning to take priority since it's offering the most in depth material. 
+- Favorite part of their course is the detailed training on writing up incicent reports.
 
 ---
 
