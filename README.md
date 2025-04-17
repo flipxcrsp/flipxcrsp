@@ -7,7 +7,8 @@ I'm pursuing a cybersecurity career focused on **security operations** and **thr
 ## 🔬 Featured Projects
 
 🛡️ [SOC-Path](https://github.com/flipxcrsp/SOC-Path)  
-My structured cybersecurity learning journal — documenting labs from HTB Academy, TryHackMe, Cybrary, and real-world SOC tooling.
+Cybersecurity learning journal — documenting labs, SIEM work, blue team tooling, and threat detection workflows tied to SOC Analyst skillsets.
+
 
 🧪 [home-lab](https://github.com/flipxcrsp/home-lab)  
 A self-built cybersecurity lab for monitoring, detection, and response using platforms like Splunk, Zeek, Wazuh, and Security Onion.
@@ -22,8 +23,7 @@ A self-built cybersecurity lab for monitoring, detection, and response using pla
 - [ ] TryHackMe: SOC Level 1 Path  
 - [x] Cybrary: SOC Analyst Career Path  
 
-- TCM Security: PSAA is beginning to take priority since it's offering the most in depth material. 
-- Favorite part of their course is the detailed training on writing up incicent reports.
+- TCM's PSAA course has recently taken priority, offering in-depth practical material and reporting fundamentals.
 
 ---
 
