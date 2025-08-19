@@ -23,7 +23,7 @@ A self-built cybersecurity lab for monitoring, detection, and response using pla
 - [ ] TryHackMe: SOC Level 1 Path  
 - [x] Cybrary: SOC Analyst Career Path  
 
-- TCM's PSAA course has recently taken priority, offering in-depth practical material and reporting fundamentals.
+- TCM's PSAA course has recently taken priority, offering in-depth practical material and reporting fundamentals!
 
 ---
 
