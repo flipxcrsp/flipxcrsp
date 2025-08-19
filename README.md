@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Phillip Crespo (aka flipxcrsp)
+# 👋 Hello there, I'm Phillip Crespo (flipxcrsp)
 
 I'm pursuing a cybersecurity career focused on **security operations** and **threat detection**. This profile highlights my hands-on learning journey as I build a strong foundation in SOC analysis, detection workflows, and incident response using industry tools and real lab environments.
 
