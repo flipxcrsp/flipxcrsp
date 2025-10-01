@@ -1,6 +1,10 @@
 # 👋 Hello there, I'm Phillip Crespo (flipxcrsp)
 
-I'm pursuing a cybersecurity career focused on **security operations** and **threat detection**. This profile highlights my hands-on learning journey as I build a strong foundation in SOC analysis, detection workflows, and incident response using industry tools and real lab environments.
+This space is where I keep track of the things I’m learning and experimenting with.  
+I like diving into labs, modules, and tools—whether that’s troubleshooting systems, exploring security workflows, or just tinkering with different platforms.  
+
+It’s less about polished projects and more about documenting the process and what I pick up along the way.
+
 
 ---
 
