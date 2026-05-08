@@ -79,7 +79,3 @@ MITRE ATT&CK, log analysis, IDS/IPS, SSH, firewalls, UFW, syslog, DNS/DHCP, VLAN
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/flipxcrsp)
 
 ---
-
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flipxcrsp&show_icons=true&theme=radical)
