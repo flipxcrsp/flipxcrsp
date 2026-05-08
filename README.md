@@ -20,15 +20,22 @@ SAFEZONE - for monitoring, detection, and response using platforms like Splunk, 
 
 ---
 
+## 🛡️ Certifications
+
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blueviolet?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/fa087431-3a47-402d-a99a-0fed1f6e5611)  
+[![Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/83522a0a-31a1-4177-968a-bfa2b4d76b1d)  
+[![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/a3f85b3c-5bc3-4f61-a9ae-0eeaf884f69f)
+
+---
+
 ## 📚 Learning Paths In Progress
 
 - [x] TCM Security: Practical SOC Analyst Associate (PSAA) 
 - [x] HTB Academy: SOC Analyst Prerequisites  
-- [x] TryHackMe: Cyber Security 101 Path  
-- [ ] TryHackMe: SOC Level 1 Path  
-- [x] Cybrary: SOC Analyst Career Path  
+- [x] TryHackMe: Cyber Security 101  
+- [x] Cybrary: SOC Analyst  
 
-- TCM's PSAA course has recently taken priority, offering in-depth practical material and reporting fundamentals!
+
 
 ---
 
@@ -62,13 +69,7 @@ MITRE ATT&CK, log analysis, IDS/IPS, SSH, firewalls, UFW, syslog, DNS/DHCP, VLAN
 
 ---
 
-## 🛡️ Certifications
 
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blueviolet?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/fa087431-3a47-402d-a99a-0fed1f6e5611)  
-[![Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/83522a0a-31a1-4177-968a-bfa2b4d76b1d)  
-[![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/a3f85b3c-5bc3-4f61-a9ae-0eeaf884f69f)
-
----
 
 ## 🌐 Connect with Me
 
