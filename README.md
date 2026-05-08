@@ -2,10 +2,9 @@
 
 This space is where I keep track of the things I’m learning and experimenting with.  
 I like diving into labs, modules, and tools.
+ 
 
-Troubleshooting systems, exploring security workflows, or just tinkering with different platforms.  
-
-It’s less about polished projects and more documenting hands-on work with security tools, systems, and workflows, with a focus on understanding how technical products solve real business problems and how to communicate that value clearly.
+It’s less about polished projects and more documenting work with tools, systems, and workflows, with a focus on understanding how technical products solve real business problems and how to communicate that value clearly.
 
 
 ---
