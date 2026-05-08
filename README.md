@@ -12,11 +12,11 @@ It’s less about polished projects and more documenting work with tools, system
 ## 🔬 Featured Projects
 
 🛡️ [SOC-Path](https://github.com/flipxcrsp/SOC-Path)  
-Cybersecurity learning journal — documenting labs, SIEM work, blue team tooling, and threat detection workflows tied to SOC Analyst skillsets.
+Cybersecurity tools - documenting labs, SIEM work, and threat detection.
 
 
 🧪 [home-lab](https://github.com/flipxcrsp/home-lab)  
-A self-built cybersecurity lab for monitoring, detection, and response using platforms like Splunk, Zeek, Wazuh, and Security Onion.
+SAFEZONE - for monitoring, detection, and response using platforms like Splunk, Zeek, Wazuh, and Security Onion.
 
 ---
 
