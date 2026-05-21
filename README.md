@@ -9,6 +9,7 @@ Most of what you'll find here isn't polished engineering work. It's experimentat
 Before technical concepts, certifications, or titles... there was usually a belief. A curiosity. A problem someone wanted solved.
 
 I started young taking orders from classmates & building gaming PCs before I ever understood terms like "solutions engineering." 
+
 Looking back, it was never just about hardware. It was understanding what people wanted, then figuring out how to build it.
 
 I don't believe you need to fit a certain mold to get into tech.
