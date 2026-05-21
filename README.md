@@ -1,8 +1,8 @@
-# 👋 Hello there, I'm Phil (flipxcrsp)
+# 👋 Hello there, I'm Phil.
 
 You can call me Flip.
 
-This space is where I keep track of the things I’m learning, testing, && occasionally breaking. I like diving into labs, tools, workflows, & products that solve problems (or sometimes create them).
+This space is where I keep track of the things I’m learning, testing, && occasionally breaking.
 
 Most of what you'll find here isn't polished work. It's going to be raw at first, refined over time.
 
