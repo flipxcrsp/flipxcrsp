@@ -1,17 +1,25 @@
 # 👋 Hello there, I'm Phil (flipxcrsp)
 
-This space is where I keep track of the things I’m learning and experimenting with.  
-I like diving into labs, modules, and tools.
- 
+You can call me Flip.
 
-It’s less about polished projects and more documenting work with tools, systems, and workflows, with a focus on understanding how technical products solve real business problems and how to communicate that value clearly.
+This space is where I keep track of the things I’m learning, testing, and occasionally breaking. I like diving into labs, tools, workflows, and technical products that solve problems (&& sometimes create them).
+
+Most of what you'll find here isn't polished engineering work. It's experimentation, observations, and understanding how systems actually function once people start using them.
+
+Before technical concepts, certifications, or titles... there was usually a belief first. A curiosity. A problem someone wanted solved. That is where my heart is.
+
+I started young taking orders from classmates and building gaming PCs before I ever understood terms like "solutions engineering." Looking back, it was never just about hardware. It was understanding what people actually wanted, then figuring out how to build it.
+
+I don't believe you need to fit a certain mold to get into tech.
+
+This page is my way of bridging technical curiosity, business thinking, and communication without drowning everything in jargon or artificial polish. 
 
 
 ---
 
 ## 🔬 Featured Projects
 
-🛡️ [SOC-Path](https://github.com/flipxcrsp/SOC-Path)  
+🛡️ [Security_Tools](https://github.com/flipxcrsp/SOC-Path)  
 Cybersecurity tools - documenting labs, SIEM work, and threat detection.
 
 
@@ -30,10 +38,10 @@ SAFEZONE - for monitoring, detection, and response using platforms like Splunk, 
 
 ## 📚 Learning Paths In Progress
 
-- [x] TCM Security: Practical SOC Analyst Associate (PSAA) 
-- [x] HTB Academy: SOC Analyst Prerequisites  
-- [x] TryHackMe: Cyber Security 101  
-- [x] Cybrary: SOC Analyst  
+- [x] TCM Security: PSAA 
+- [x] HTB Academy: Security Tools  
+- [x] TryHackMe: Security 101  
+- [x] Cybrary: Linux, macOS, Windows Fundamentals & Tooling  
 
 
 
@@ -55,7 +63,7 @@ SAFEZONE - for monitoring, detection, and response using platforms like Splunk, 
 **Platforms:**  
 Pop!_OS, Kali Linux, Ubuntu Server, Windows 10/11, Windows Server 2019, macOS, VirtualBox, VMware
 
-**Blue Team & Monitoring:**  
+**Defensive Monitoring:**  
 Splunk, Zeek, Suricata, Wazuh, Graylog, tcpdump, Wireshark, OpenVAS, Lynis, Fail2ban, TheHive, ELK Stack
 
 **Offensive Tools & Recon:**  
