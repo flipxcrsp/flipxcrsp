@@ -6,7 +6,7 @@ This space is where I keep track of the things I’m learning, testing, and occa
 
 Most of what you'll find here isn't polished engineering work. It's experimentation, observations, and understanding how systems actually function once people start using them.
 
-Before technical concepts, certifications, or titles... there was usually a belief first. A curiosity. A problem someone wanted solved. That is where my heart is.
+Before technical concepts, certifications, or titles... there was usually a belief. A curiosity. A problem someone wanted solved. That is where my heart is.
 
 I started young taking orders from classmates and building gaming PCs before I ever understood terms like "solutions engineering." Looking back, it was never just about hardware. It was understanding what people actually wanted, then figuring out how to build it.
 
