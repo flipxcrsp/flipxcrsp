@@ -4,7 +4,7 @@ You can call me Flip.
 
 This space is where I keep track of the things I’m learning, testing, && occasionally breaking.
 
-Most of what you'll find here isn't polished work. It's going to be raw at first, refined over time.
+Most of what you'll find here isn't polished work. It's going to be raw at first, refined over time (ah, such is life).
 
 Experimentation, observations, & understanding how systems function once people start using them.
 
