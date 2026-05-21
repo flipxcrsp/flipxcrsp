@@ -4,7 +4,9 @@ You can call me Flip.
 
 This space is where I keep track of the things I’m learning, testing, && occasionally breaking. I like diving into labs, tools, workflows, & products that solve problems (or sometimes create them).
 
-Most of what you'll find here isn't polished engineering work. It's experimentation, observations, & understanding how systems actually function once people start using them.
+Most of what you'll find here isn't polished work. It's going to be raw at first, refined over time.
+
+Experimentation, observations, & understanding how systems function once people start using them.
 
 Before technical concepts, certifications, or titles... there was usually a belief. A curiosity. A problem someone wanted solved.
 
@@ -14,7 +16,7 @@ Looking back, it was never just about hardware. It was understanding what people
 
 I don't believe you need to fit a certain mold to get into tech.
 
-This page is my way of bridging technical curiosity & business thinking without drowning in jargon or artificial polish. 
+This page is my way of bridging technical curiosity & business thinking without drowning in jargon or artificial 💩. 
 
 
 ---
