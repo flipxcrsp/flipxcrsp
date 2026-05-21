@@ -8,7 +8,7 @@ Most of what you'll find here isn't polished work. It's going to be raw at first
 
 Experimentation, observations, & understanding how systems function once people start using them.
 
-Before technical concepts, certifications, or titles... there was usually a belief. A curiosity. A problem someone wanted solved.
+Before technical concepts, certifications, or titles there was usually a belief. A curiosity. A problem someone wanted solved.
 
 I started young taking orders from classmates & building gaming PCs before I ever understood terms like "solutions engineering." 
 
