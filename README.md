@@ -55,7 +55,7 @@ SAFEZONE - also, touching the stove on purpose.
 - ✅ Log Analysis Basics  
 - ✅ Windows Event Logs  
 - ✅ SIEM Basics + Search Expressions  
-- ✅ Security Ticketing with TheHive
+- ✅ Ticketing with TheHive
 
 🔗 [See Full Lab Portfolio →](https://github.com/flipxcrsp/SOC-Path/tree/main/Cybrary)
 
