@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Phil.
+# 👋 Hello there, I'm Phillip.
 
 You can call me Flip.
 
