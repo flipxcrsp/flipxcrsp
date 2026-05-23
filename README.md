@@ -16,7 +16,7 @@ Looking back, it was never just about hardware. It was understanding what people
 
 I don't believe you need to fit a certain mold to get into tech.
 
-This page is my way of bridging technical curiosity & business thinking without drowning in too much jargon. We have fun here! 
+This page is my way of bridging technical interest & business thinking without drowning in too much jargon. We have fun here! 
 
 
 ---
