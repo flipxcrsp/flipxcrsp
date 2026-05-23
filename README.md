@@ -16,19 +16,19 @@ Looking back, it was never just about hardware. It was understanding what people
 
 I don't believe you need to fit a certain mold to get into tech.
 
-This page is my way of bridging technical curiosity & business thinking without drowning in jargon or artificial 💩. 
+This page is my way of bridging technical curiosity & business thinking without drowning in too much jargon. We have fun here! 
 
 
 ---
 
 ## 🔬 Featured Projects
 
-🛡️ [Security_Tools](https://github.com/flipxcrsp/SOC-Path)  
-Cybersecurity tools - documenting labs, SIEM work, and threat detection.
+🛡️ [Beyond_the_pitch](https://github.com/flipxcrsp/Beyond_the_pitch)  
+Platforms, systems, & product observations beyond the pitch.
 
 
 🧪 [home-lab](https://github.com/flipxcrsp/home-lab)  
-SAFEZONE - for monitoring, detection, and response using platforms like Splunk, Zeek, Wazuh, and Security Onion.
+SAFEZONE - also, touching the stove on purpose.
 
 ---
 
