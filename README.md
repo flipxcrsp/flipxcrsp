@@ -40,13 +40,12 @@ SAFEZONE - also, touching the stove on purpose.
 
 ---
 
-## 📚 Learning Paths In Progress
+## 📚 Learning 
 
-- [x] TCM Security: PSAA 
-- [x] HTB Academy: Security Tools  
-- [x] TryHackMe: Security 101  
-- [x] Cybrary: Linux, macOS, Windows Fundamentals & Tooling  
-
+- [x] ServiceNow: GRC Fundamentals
+- [x] HTB Academy: Systems, Networking, & Security Workflows
+- [x] TryHackMe: Guided Labs & Platform Exploration
+- [x] Cybrary: Linux, macOS, Windows Fundamentals & Tooling
 
 
 ---
