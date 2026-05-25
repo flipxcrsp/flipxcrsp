@@ -20,6 +20,8 @@ This page bridges technical interest & business thinking without drowning in too
 🛡️ [Beyond_the_pitch](https://github.com/flipxcrsp/Beyond_the_pitch)  
 Platforms, systems, & product observations beyond the pitch.
 
+- 🏫 [Pathify_Product_Observations](https://github.com/flipxcrsp/Pathify_Product_Observations)
+A quick product analysis covering positioning & GTM observations.
 
 🧪 [home-lab](https://github.com/flipxcrsp/home-lab)  
 SAFEZONE - also, touching the stove on purpose.
