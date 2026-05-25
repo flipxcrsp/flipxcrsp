@@ -8,7 +8,7 @@ Most of what you'll find here isn't polished work. It's going to be raw at first
 
 I started young taking orders from classmates & building gaming PCs before I ever understood terms like "solutions engineering."
 
-Looking back, it was never just about hardware. It was understanding what people wanted, then figuring out how to build it.
+Looking back, it was never just about hardware. It was understanding what people wanted & building it.
 
 This page bridges technical interest & business thinking without drowning in too much jargon. We have fun here!
 
