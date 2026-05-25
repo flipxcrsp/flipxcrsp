@@ -10,7 +10,7 @@ I started young taking orders from classmates & building gaming PCs before I eve
 
 Looking back, it was never just about hardware. It was understanding what people wanted, then figuring out how to build it.
 
-This page is my way of bridging technical interest & business thinking without drowning in too much jargon. We have fun here!
+This page bridges technical interest & business thinking without drowning in too much jargon. We have fun here!
 
 
 ---
