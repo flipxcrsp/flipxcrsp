@@ -23,7 +23,7 @@ Platforms, systems, & product observations beyond the pitch.
 🏫 [Pathify_Product_Observations](https://github.com/flipxcrsp/Pathify_Product_Observations)
 Independant product analysis covering positioning & GTM observations.
 
-🏫 [EQL_Product_Observations](https://github.com/flipxcrsp/EQL_Product_Observations)  
+👟 [EQL_Product_Observations](https://github.com/flipxcrsp/EQL_Product_Observations)  
 Independent product analysis covering hype infrastructure, behavioral security, & launch psychology.
 
 🧪 [home-lab](https://github.com/flipxcrsp/home-lab)  
