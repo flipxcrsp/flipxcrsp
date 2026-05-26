@@ -20,7 +20,7 @@ This page bridges technical interest & business thinking without drowning in too
 🛡️ [Beyond_the_pitch](https://github.com/flipxcrsp/Beyond_the_pitch)  
 Platforms, systems, & product observations beyond the pitch.
 
-🏫 [Pathify_Product_Observations](https://github.com/flipxcrsp/Pathify_Product_Observations)
+🏫 [Pathify_Product_Observations](https://github.com/flipxcrsp/Pathify_Product_Observations)  
 Independant product analysis covering positioning & GTM observations.
 
 👟 [EQL_Product_Observations](https://github.com/flipxcrsp/EQL_Product_Observations)  
