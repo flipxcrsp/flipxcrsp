@@ -23,7 +23,7 @@ Platforms, systems, & product observations beyond the pitch.
 🏫 [Pathify_Product_Observations](https://github.com/flipxcrsp/Pathify_Product_Observations)  
 Independant product analysis covering digital campus infrastructure, integrations, & student experience strategy.
 
-🏗️ [Kojo_Product_Observations](https://github.com/flipxcrsp/Kojo_Product_Observations) 
+🏗️ [Kojo_Product_Observations](https://github.com/flipxcrsp/Kojo_Product_Observations)  
 Exploring how Kojo is revolutionizing construction materials management.
 
 👟 [EQL_Product_Observations](https://github.com/flipxcrsp/EQL_Product_Observations)  
