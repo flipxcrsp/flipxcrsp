@@ -17,7 +17,7 @@ This page bridges technical interest & business thinking without drowning in too
 
 ## 🔬 Featured Projects
 
-🕸 [Stakeholder-Mapper](https://github.com/flipxcrsp/Stakeholder-Mapper)  
+🕵️ [Stakeholder-Mapper](https://github.com/flipxcrsp/Stakeholder-Mapper)  
 I designed a sales intelligence application for visualizing stakeholders & surfacing deal risk.
 
 🛡️ [Beyond_the_pitch](https://github.com/flipxcrsp/Beyond_the_pitch)  
