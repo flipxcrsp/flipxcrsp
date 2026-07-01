@@ -23,7 +23,7 @@ Designed a sales intelligence application for visualizing stakeholders & surfaci
 🛡️ [Beyond_the_pitch](https://github.com/flipxcrsp/Beyond_the_pitch)  
 Platforms, systems, & product observations beyond the pitch.
 
-📦 [White Label Storage GTM Observations](https://github.com/flipxcrsp/White_Label_Storage_Observations) 
+📦 [White Label Storage GTM Observations](https://github.com/flipxcrsp/White_Label_Storage_Observations)  
 Exploring what differentiates WLS from traditional self-storage management companies.
 
 🏫 [Pathify_Product_Observations](https://github.com/flipxcrsp/Pathify_Product_Observations)  
